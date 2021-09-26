@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dogedeck/static/css/main.d1a928d9.chunk.css",
+    "main.js": "/dogedeck/static/js/main.0abc3caa.chunk.js",
+    "main.js.map": "/dogedeck/static/js/main.0abc3caa.chunk.js.map",
+    "runtime-main.js": "/dogedeck/static/js/runtime-main.9a77fe0a.js",
+    "runtime-main.js.map": "/dogedeck/static/js/runtime-main.9a77fe0a.js.map",
+    "static/js/2.5000b989.chunk.js": "/dogedeck/static/js/2.5000b989.chunk.js",
+    "static/js/2.5000b989.chunk.js.map": "/dogedeck/static/js/2.5000b989.chunk.js.map",
+    "static/js/3.d65bf59f.chunk.js": "/dogedeck/static/js/3.d65bf59f.chunk.js",
+    "static/js/3.d65bf59f.chunk.js.map": "/dogedeck/static/js/3.d65bf59f.chunk.js.map",
+    "index.html": "/dogedeck/index.html",
+    "static/css/main.d1a928d9.chunk.css.map": "/dogedeck/static/css/main.d1a928d9.chunk.css.map",
+    "static/js/2.5000b989.chunk.js.LICENSE.txt": "/dogedeck/static/js/2.5000b989.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a77fe0a.js",
+    "static/js/2.5000b989.chunk.js",
+    "static/css/main.d1a928d9.chunk.css",
+    "static/js/main.0abc3caa.chunk.js"
+  ]
+}

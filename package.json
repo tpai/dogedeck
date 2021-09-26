@@ -17,7 +17,7 @@
   },
   "scripts": {
     "start": "craco start",
-    "build": "craco build",
+    "build": "PUBLIC_URL=/dogedeck BUILD_PATH=./docs craco build",
     "test": "craco test",
     "backup": "node src/utils/backup.js",
     "eject": "react-scripts eject"
