@@ -22,9 +22,8 @@ jobs:
         npm install
         npm run build --if-present
         npm run backup --if-present
-    - name: Archive artifacts
-        uses: actions/upload-artifact@v2
-        with:
-          name: cards-bak
-          path: |
-            src/cards-bak.json
+    - uses: actions/upload-artifact@v2
+      with:
+        name: cards-bak
+        path: |
+          src/cards-bak.json
