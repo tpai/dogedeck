@@ -18,4 +18,10 @@ Promise.all(
       src: dataUrl,
     };
   })
-).then((result) => fs.writeFileSync("../cards-bak.json", JSON.stringify(result)));
+).then((cards) => {
+  cards.map((card) => {
+    const data = card.src.replace(/^data:image\/\w+;base64,/, "");
+    const buf = Buffer.from(data, "base64");
+    fs.writeFileSync(`./cards/${card.title.replace(/[":<>|*?]+/, '')}.png`, buf);
+  });
+});
