@@ -42,7 +42,7 @@ function App() {
             <img
               key={encodeURIComponent(card.title)}
               className="object-cover object-center w-1/2 rounded-lg sm:w-1/3 lg:w-1/6"
-              alt="card"
+              alt={card.title}
               src={card.src}
             />
           ))}
