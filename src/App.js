@@ -16,7 +16,7 @@ function App() {
       <header className="flex p-3">
         <select
           onChange={handleTypeChange}
-          className="w-1/3 py-2 pl-3 pr-10 text-white bg-transparent border border-gray-700 rounded appearance-none sm:w-24"
+          className="w-1/3 py-2 pl-3 text-white bg-transparent border border-gray-700 rounded appearance-none sm:w-24"
         >
           <option value="">全部</option>
           <option value="trap">陷阱卡</option>
