@@ -1,170 +1,842 @@
 [
-  { "title": "不可以色色", "type": "magic", "src": "https://i.imgur.com/UnDldbZ.jpg" },
-  { "title": "你也不可以色色", "type": "trap", "src":"https://i.imgur.com/3PSEwql.jpg"},
-  { "title": "可以色色", "type": "trap", "src": "https://i.imgur.com/yz5dje5.jpg" },
-  { "title": "強制色色", "type": "magic", "src": "https://i.imgur.com/lvF1Vhuh.jpg" },
-  { "title": "防色色陷阱", "type": "trap", "src": "https://i.imgur.com/Yej9H7x.jpg" },
-  { "title": "色色武士", "type": "monster", "src": "https://i.imgur.com/t8SX9H3h.jpg" },
-  { "title": "我要色色", "type": "magic", "src": "https://i.imgur.com/KWdZ2uh.jpeg" },
-  { "title": "犬神之宣告", "type": "trap", "src": "https://i.imgur.com/mwVhuayh.jpg" },
-  { "title": "結紮手術", "type": "magic", "src": "https://i.imgur.com/qxWF0Ehh.jpg" },
-  { "title": "絕望大魔法師 我只想色色錯了嗎?", "type": "monster", "src": "https://i.imgur.com/GuhdyFM.jpg" },
-  { "title": "色色之都-慾望城市", "type": "magic", "src": "https://i.imgur.com/fCd7VEeh.jpg" },
-  { "title": "色色力量", "type": "magic", "src": "https://i.imgur.com/ahnt258h.jpg" },
-  { "title": "無法色色柴犬", "type": "monster", "src": "https://i.imgur.com/MNCDjczh.jpg" },
-  { "title": "不可以色色狂戰士", "type": "monster", "src": "https://i.imgur.com/VGi85SX.jpg" },
-  { "title": "色色潮柴犬", "type": "monster", "src": "https://i.imgur.com/JzobPW6h.jpg" },
-  { "title": "色色柴犬（微笑", "type": "monster", "src": "https://i.imgur.com/aNW6X8hh.jpg" },
-  { "title": "色色柴犬（燦笑", "type": "monster", "src": "https://i.imgur.com/02CZ5IMh.jpg" },
-  { "title": "赤色色色柴犬幼體", "type": "monster", "src": "https://i.imgur.com/EVoDNVVh.jpg" },
-  { "title": "白色色色柴犬幼體", "type": "monster", "src": "https://i.imgur.com/kGDjnjW.jpg"},
-  { "title": "黑色色色柴犬幼體", "type": "monster", "src": "https://i.imgur.com/ck8xfJ2.jpg"},
-  { "title": "屁↗眼↘派↗對↘", "type": "magic", "src": "https://i.imgur.com/F17TDYJh.jpg" },
-  { "title": "純潔天使 聖光柴犬", "type": "monster", "src": "https://i.imgur.com/EiHfFaPh.jpg" },
-  { "title": "FBI Department of anti-horny", "type": "magic", "src": "https://i.imgur.com/FjEm0E0h.jpg" },
-  { "title": "優雅的紳士", "type": "monster", "src": "https://i.imgur.com/XLmD00mh.jpg" },
-  { "title": "混亂柴犬", "type": "trap", "src": "https://i.imgur.com/UqxwnYQ.jpg" },
-  { "title": "技術性支援", "type": "magic", "src": "https://i.imgur.com/CujL80eh.jpg" },
-  { "title": "柴柴小姐", "type": "monster", "src": "https://i.imgur.com/wHvAvQNh.jpg" },
-  { "title": "色色太空狗", "type": "monster", "src": "https://i.imgur.com/Wu0FSXhh.jpg" },
-  { "title": "色色總柴", "type": "monster", "src": "https://i.imgur.com/Ev7EBbHh.jpg" },
-  { "title": "狗・勾・幣", "type": "magic", "src": "https://i.imgur.com/0JAKi5Dh.jpg" },
-  { "title": "Gate of Bonks", "type": "monster", "src": "https://i.imgur.com/QXVUmQOh.jpg" },
-  { "title": "色色監獄-The Horny Jail", "type": "magic", "src": "https://i.imgur.com/wCGKCaih.jpg" },
-  { "title": "覺醒的柴犬騎士-Mia", "type": "monster", "src": "https://i.imgur.com/xTXX4iNh.jpg" },
-  { "title": "抵死不從", "type": "magic", "src": "https://i.imgur.com/d1BkSDdh.jpg" },
-  { "title": "陽光天真帥狗勾", "type": "monster", "src": "https://i.imgur.com/rjkS2K2h.jpg" },
-  { "title": "強制Bonk", "type": "trap", "src": "https://i.imgur.com/xKOb0rUh.jpg" },
-  { "title": "嘿嘿嘿-我好想色色", "type": "monster", "src": "https://i.imgur.com/FfGgVj4h.jpg" },
-  { "title": "窩就色色", "type": "trap", "src": "https://i.imgur.com/ilPPxwXh.jpg" },
-  { "title": "很想色色，對吧？", "type": "monster", "src": "https://i.imgur.com/38mmrJT.jpg" },
-  { "title": "熱狗", "type": "monster", "src": "https://imgur.dcard.tw/Hvjld9Hh.jpg" },
-  { "title": "龍騎士柴可夫斯基", "type": "monster", "src": "https://imgur.dcard.tw/uGyuEfsh.jpg" },
-  { "title": "拖去槍斃", "type": "trap", "src": "https://imgur.dcard.tw/3i0JEeIh.jpg" },
-  { "title": "抗色色藥", "type": "magic", "src": "https://imgur.dcard.tw/w2yJXaAh.jpg" },
-  { "title": "大狗狗風暴", "type": "monster", "src": "https://imgur.dcard.tw/XSbzTuDh.jpg" },
-  { "title": "驚嚇到模糊", "type": "magic", "src": "https://imgur.dcard.tw/VGiy0ith.jpg" },
-  { "title": "反色色火箭炮", "type": "monster", "src": "https://imgur.dcard.tw/1b08yMxh.jpg" },
-  { "title": "色色團結之心", "type": "monster", "src": "https://imgur.dcard.tw/iq51DOVh.jpg" },
-  { "title": "噓!!!化成狗我都認得-新bonk氣流斬", "type": "monster", "src": "https://imgur.dcard.tw/YTkxCz8h.jpg" },
-  { "title": "柴犬之星", "type": "magic", "src": "https://imgur.dcard.tw/Ndq71Nph.jpg" },
-  { "title": "色色三兄弟", "type": "monster", "src": "https://i.imgur.com/hwghTvSh.jpg" },
-  { "title": "我就色色", "type": "trap", "src": "https://i.imgur.com/rWfHcfoh.jpg" },
-  { "title": "色色忍者", "type": "monster", "src": "https://i.imgur.com/IOf99Q4h.jpg" },
-  { "title": "色色的壞壞狗勾老大", "type": "monster", "src": "https://i.imgur.com/9fjhvb3h.jpg" },
-  { "title": "色色的壞壞狗勾小弟", "type": "monster", "src": "https://i.imgur.com/9mTYlz0h.jpg" },
-  { "title": "疾風色色柴", "type": "monster", "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/%E7%96%BE%E9%A2%A8%E8%89%B2%E8%89%B2%E6%9F%B4.png" },
-  { "title": "色色柴軍團", "type": "monster", "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/%E8%89%B2%E8%89%B2%E6%9F%B4%E8%BB%8D%E5%9C%98.png" },
-  { "title": "小色犬", "type": "monster", "src": "https://i.imgur.com/uAzbBOU.png"},
-  { "title": "三首色犬", "type": "monster", "src": "https://i.imgur.com/FOFQpkK.png" },
-  { "title": "色色守護者", "type": "monster", "src": "https://i.imgur.com/u8OleoYh.jpg" },
-  { "title": "色色高裝檢", "type": "trap", "src": "https://i.imgur.com/ExMai88.jpg" },
-  { "title": "色色巡邏隊", "type": "monster", "src": "https://i.imgur.com/E8nJ6Nnh.jpg" },
-  { "title": "這裡，可以色色!", "type": "magic", "src": "https://i.imgur.com/RnyqBxxh.jpg" },
-  { "title": "已經色出來了", "type": "magic", "src": "https://i.imgur.com/D5MM7wgh.jpg" },
-  { "title": "防色色監獄", "type": "magic", "src": "https://i.imgur.com/duLkUuOh.jpg" },
-  { "title": "探監", "type": "magic", "src": "https://i.imgur.com/teuAfB3h.jpg" },
-  { "title": "色影濕", "type": "monster", "src": "https://imgur.dcard.tw/NMR9C5bh.jpg" },
-  { "title": "貞潔者・聖母柴莉亞", "type": "monster", "src": "https://imgur.dcard.tw/v0Gd4gdh.jpg" },
-  { "title": "泡沫化", "type": "trap", "src": "https://imgur.dcard.tw/51lozPPh.jpg" },
-  { "title": "再買更多卡", "type": "trap", "src": "https://imgur.dcard.tw/z8RqnAHh.jpg" },
-  { "title": "逼你色色", "type": "magic", "src": "https://imgur.dcard.tw/T1WKm5Dh.jpg" },
-  { "title": "絕對的色色時間", "type": "magic", "src": "https://imgur.dcard.tw/Rmv49Muh.jpg" },
-  { "title": "多重色色", "type": "monster", "src": "https://imgur.dcard.tw/NqpKueYh.jpg" },
-  { "title": "突然色色", "type": "magic", "src": "https://imgur.dcard.tw/8ijEVGbh.jpg" },
-  { "title": "熱血之柴柴鍊金術師", "type": "monster", "src": "https://imgur.dcard.tw/8mCgUwBh.jpg" },
-  { "title": "純愛即是真理", "type": "monster", "src": "https://imgur.dcard.tw/NDF7Y29h.jpg" },
-  { "title": "牙通牙", "type": "magic", "src": "https://imgur.dcard.tw/p4yvsHYh.jpg" },
-  { "title": "蛤?你說什麼我沒聽到!", "type": "trap", "src": "https://imgur.dcard.tw/QcvFC5qh.jpg" },
-  { "title": "黑繩天譴柴犬明王", "type": "monster", "src": "https://imgur.dcard.tw/cJGcEVeh.jpg" },
-  { "title": "嗷嗚凹嗚汪嗚", "type": "magic", "src": "https://imgur.dcard.tw/rhOzxxVh.jpg" },
-  { "title": "Anti-Horny Bonk Helmet", "type": "magic", "src": "https://imgur.dcard.tw/Os5mIKEh.jpg" },
-  { "title": "大膽無畏的偷襲", "type": "magic", "src": "https://imgur.dcard.tw/IzLNUkxh.jpg" },
-  { "title": "窩只想好好色色嗚嗚嗚嗚", "type": "magic", "src": "https://imgur.dcard.tw/QCeEK0th.jpg" },
-  { "title": "色色大逆轉啦", "type": "trap", "src": "https://imgur.dcard.tw/TUGMyF7h.jpg" },
-  { "title": "禁慾使徒 傳教忠犬", "type": "monster", "src": "https://imgur.dcard.tw/890EuiFh.jpg" },
-  { "title": "色色‧THE‧WORLD", "type": "magic", "src": "https://i.imgur.com/yqNEtQS.jpg" },
-  { "title": "防色色安全帶" , "type": "magic", "src": "https://i.imgur.com/9dpUpld.jpg" },
-  { "title": "色色啟動", "type": "monster", "src": "https://i.imgur.com/qJibH5a.jpg"},
-  { "title": "色色（咬）反制術", "type": "magic", "src": "https://i.imgur.com/Ln01D2r.jpg"},
-  { "title": "受到威脅的柴柴", "type": "monster", "src": "https://i.imgur.com/HLjl7sA.jpg"},
-  { "title": "色色的怒吼", "type": "trap", "src": "https://i.imgur.com/vfmUGx0.jpg"},
-  { "title": "收到通知的柴柴", "type": "monster", "src": "https://i.imgur.com/5t6sjTp.jpg"},
-  { "title": "誰准你色色了", "type": "trap", "src": "https://i.imgur.com/YeChykM.jpg"},
-  { "title": "可疑的柴柴", "type": "monster", "src": "https://i.imgur.com/MZKLrRo.jpg"},
-  { "title": "影分＂色＂之術", "type": "magic", "src": "https://i.imgur.com/Xr5Ioze.jpg"},
-  { "title": "高麗菜", "type": "monster", "src": "https://i.imgur.com/VQ61Stn.jpg"},
-  { "title": "巧克力", "type": "monster", "src": "https://i.imgur.com/Nmqscdu.jpg"},
-  { "title": "色色的暗示", "type": "trap", "src": "https://i.imgur.com/gMcC454.jpg"},
-  { "title": "我不想再色色了", "type": "monster", "src": "https://i.imgur.com/nehxqWm.jpg"},
-  { "title": "柴面濕身像", "type": "trap", "src": "https://i.imgur.com/GSSl4gn.jpg"},
-  { "title": "激烈色色犬", "type": "monster", "src": "https://i.imgur.com/m6ppKkF.png"},
-  { "title": "色色雙煞", "type": "monster", "src": "https://i.imgur.com/zGr7H4X.jpg"},
-  { "title": "色色四兄弟", "type": "monster", "src": "https://i.imgur.com/treFYMK.jpg"},
-  { "title": "賣身契", "type": "magic", "src":"https://i.imgur.com/fsKj3jM.jpg"},
-  { "title": "銀河色色二人組", "type": "monster", "src":"https://i.imgur.com/dy2IvBth.jpg"},
-  { "title": "月工仙子", "type": "monster", "src":"https://i.imgur.com/lF2u4zah.jpg"},
-  { "title": "諸色犬吉", "type": "trap", "src":"https://i.imgur.com/7gAXsI0h.jpg"},
-  { "title": "色色水管工 阿賢&阿財", "type": "monster", "src":"https://i.imgur.com/CzJ5xNQh.jpg"},
-  { "title": "刑法第227條", "type": "magic", "src":"https://i.imgur.com/V4sBxqWh.jpg"},
-  { "title": "絕對可以色色", "type": "magic", "src":"https://i.imgur.com/D4CSv3Ih.jpg"},
-  { "title": "超級憤怒‧沉默的暗殺者", "type": "monster", "src":"https://i.imgur.com/Dx2BLrkh.jpg"},
-  { "title": "阿牠這樣也可以色色喔", "type": "magic", "src":"https://i.imgur.com/6AocyjJh.jpg"},
-  { "title": "汽車後座擠4個人", "type": "trap", "src":"https://i.imgur.com/7DUGkQ5h.jpg"},
-  { "title": "新年柴神到!!", "type": "monster", "src":"https://i.imgur.com/VCW896hh.jpg"},
-  { "title": "雙頭柴-雙倍色色宇宙", "type": "monster", "src":"https://i.imgur.com/qXN0JLPh.jpg"},
-  { "title": "飢渴難耐的Aili", "type": "monster", "src":"https://i.imgur.com/8vVsIYxh.jpg"},
-  { "title": "戒色第100天", "type": "trap", "src":"https://imgur.dcard.tw/trx1tL8h.png"},
-  { "title": "眾基首", "type": "monster", "src":"https://i.imgur.com/VieLwoz.jpg"},
-  { "title": "斯拉夫之基", "type": "monster", "src":"https://i.imgur.com/iIQTj4s.jpg"},
-  { "title": "一起色色", "type": "magic", "src":"https://i.imgur.com/RLJksCn.jpeg"},
-  { "title": "色吉是空", "type": "trap", "src":"https://i.imgur.com/wkun4qv.jpeg"},
-  { "title": "空吉是色", "type": "trap", "src":"https://i.imgur.com/NtJNqH0.jpg"},
-  { "title": "還是不能色色", "type": "monster", "src":"https://i.imgur.com/S9LrRyq.jpeg"},
-  { "title": "防色色辣椒水", "type": "magic", "src":"https://i.imgur.com/K5xljtO.jpg"},
-  { "title": "不要廢話，直接色色", "type": "magic", "src":"https://i.imgur.com/3Js5OJm.gif"},
-  { "title": "妖艷翹臀色狗狗", "type": "monster", "src":"https://i.imgur.com/hKu4c50.jpg"},
-  { "title": "超强力・「抗色色藥」！", "type": "magic", "src":"https://i.imgur.com/wbbRzuV.jpg"},
-  { "title": "媽的再給我色色試試看", "type": "trap", "src":"https://i.imgur.com/hObyxxM.jpg"},
-  { "title": "現在可以色色了", "type": "magic", "src":"https://i.imgur.com/cmcQcq5.jpg"},
-  { "title": "No.86不色色勇士 柴犬之槍", "type": "monster", "src":"https://i.imgur.com/KJWDdtP.jpg"},
-  { "title": "覺醒的柴犬騎士——Mia", "type": "monster", "src":"https://i.imgur.com/xTXX4iN.jpg"},
-  { "title": "地板很滑的", "type": "magic", "src":"https://i.imgur.com/NZQUj5e.jpg"},
-  { "title": "色色加班", "type": "trap", "src":"https://raw.githubusercontent.com/tpai/dogedeck/main/cards/%E8%89%B2%E8%89%B2%E5%8A%A0%E7%8F%AD.png"},
-  { "title": "色色六柴組", "type": "magic", "src":"https://memeprod.sgp1.digitaloceanspaces.com/user-wtf/1639151994588.jpg"},
-  { "title": "還敢色色", "type": "magic", "src":"https://memeprod.sgp1.digitaloceanspaces.com/user-wtf/1639150408445.jpg"},
-  { "title": "色色同化", "type": "magic", "src":"https://memeprod.sgp1.digitaloceanspaces.com/user-wtf/1631614624382.jpg"},
-  { "title": "色色柴犬", "type": "monster", "src":"https://i.imgur.com/DTXlrpb.png"},
-  { "title": "色色柴犬——四位一體", "type": "monster", "src":"https://i.imgur.com/jXHoMFa.png"},
-  { "title": "高傲色柴", "type": "monster", "src":"https://i.imgur.com/C5tijy8.png"},
-  { "title": "色色柴犬——拔刀相助", "type": "monster", "src":"https://i.imgur.com/HHTfTlu.png"},
-  { "title": "色色柴犬——狩獵模式", "type": "monster", "src":"https://i.imgur.com/mJmneJY.png"},
-  { "title": "色色柴犬——商業經營", "type": "monster", "src":"https://i.imgur.com/lt7eVrK.png"},
-  { "title": "色色柴犬——被捕獲", "type": "monster", "src":"https://i.imgur.com/XfyAdGk.png"},
-  { "title": "汎濫成災！【已經色了！】", "type": "trap", "src":"https://i.imgur.com/kdze32W.png"},
-  { "title": "色色的心思", "type": "trap", "src":"https://i.imgur.com/OmrbBW5.png"},
-  { "title": "色色柴犬——熊耳公主", "type": "monster", "src":"https://i.imgur.com/fOnFimY.png"},
-  { "title": "色色柴犬——兒戲忍者", "type": "monster", "src":"https://i.imgur.com/VLIokiU.png"},
-  { "title": "色色柴犬——強力右勾拳", "type": "monster", "src":"https://i.imgur.com/ktzK08z.png"},
-  { "title": "色色柴犬——可以色色", "type": "monster", "src":"https://i.imgur.com/KDvhFTL.png"},
-  { "title": "色色柴犬——隱者", "type": "monster", "src":"https://i.imgur.com/zElX33K.png"},
-  { "title": "SUMMON HORNY SEIGE", "type": "trap", "src":"https://i.imgur.com/jHQlIh1.jpg"},
-  { "title": "國產抗色色藥", "type": "magic", "src":"https://i.imgur.com/Qx7YwOB.jpg"},
-  { "title": "欲望解放者——神之制柴", "type": "monster", "src":"https://i.imgur.com/X5JDDfh.jpg"},
-  { "title": "究極の色色", "type": "monster", "src":"https://i.imgur.com/ag0DVMT.jpg"},
-  { "title": "色色", "type": "monster", "src":"https://i.imgur.com/fiMHWhP.jpg"},
-  { "title": "娛樂性用藥", "type": "monster", "src":"https://i.imgur.com/jQ4rZGw.jpg"},
-  { "title": "色色三頭柴（未結紥）", "type": "monster", "src":"https://i.imgur.com/stHqpIP.jpg"},
-  { "title": "被封印的色色大法師", "type": "monster", "src":"https://i.imgur.com/UV7eWkS.jpg"},
-  { "title": "柴犬們的色色領域", "type": "trap", "src":"https://i.imgur.com/0Xe6eDe.jpg"},
-  { "title": "色色的意圖", "type": "magic", "src":"https://i.imgur.com/YOQnMaU.jpg"},
-  { "title": "神犬尾毛掃", "type": "magic", "src":"https://i.imgur.com/TPHczeN.jpg"},
-  { "title": "柴犬烏拉拉", "type": "monster", "src":"https://i.imgur.com/0Ubay8O.jpg"},
-  { "title": "正在色色", "type": "trap", "src":"https://i.imgur.com/kZWdaOg.jpg"},
-  { "title": "我已經色射了", "type": "monster", "src":"https://i.imgur.com/2LJTb2z.jpg"},
-  { "title": "懶得色色", "type": "magic", "src":"https://i.imgur.com/7keqpq6.jpg"},
-  { "title": "惡魔狗男：你今晚的惡夢", "type": "monster", "src":"https://i.imgur.com/cHYMpgd.jpg"},
-  { "title": "死亡筆記本與黑色鳳梨", "type": "trap", "src":"https://i.imgur.com/j1Lo8Ql.jpg"},
-  { "title": "哭啊 又吸奶", "type": "monster", "src":"https://i.imgur.com/jGXJRYM.jpg"},
-  { "title": "眼不見為净", "type": "magic", "src":"https://i.imgur.com/8gL94bz.jpg"}
+  {
+    "title": "不可以色色",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/不可以色色.png"
+  },
+  {
+    "title": "你也不可以色色",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/你也不可以色色.png"
+  },
+  {
+    "title": "可以色色",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/可以色色.png"
+  },
+  {
+    "title": "強制色色",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/強制色色.png"
+  },
+  {
+    "title": "防色色陷阱",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/防色色陷阱.png"
+  },
+  {
+    "title": "色色武士",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色武士.png"
+  },
+  {
+    "title": "我要色色",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/我要色色.png"
+  },
+  {
+    "title": "犬神之宣告",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/犬神之宣告.png"
+  },
+  {
+    "title": "結紮手術",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/結紮手術.png"
+  },
+  {
+    "title": "絕望大魔法師 我只想色色錯了嗎?",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/絕望大魔法師 我只想色色錯了嗎?.png"
+  },
+  {
+    "title": "色色之都-慾望城市",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色之都-慾望城市.png"
+  },
+  {
+    "title": "色色力量",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色力量.png"
+  },
+  {
+    "title": "無法色色柴犬",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/無法色色柴犬.png"
+  },
+  {
+    "title": "不可以色色狂戰士",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/不可以色色狂戰士.png"
+  },
+  {
+    "title": "色色潮柴犬",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色潮柴犬.png"
+  },
+  {
+    "title": "色色柴犬（微笑",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色柴犬（微笑.png"
+  },
+  {
+    "title": "色色柴犬（燦笑",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色柴犬（燦笑.png"
+  },
+  {
+    "title": "赤色色色柴犬幼體",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/赤色色色柴犬幼體.png"
+  },
+  {
+    "title": "白色色色柴犬幼體",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/白色色色柴犬幼體.png"
+  },
+  {
+    "title": "黑色色色柴犬幼體",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/黑色色色柴犬幼體.png"
+  },
+  {
+    "title": "屁↗眼↘派↗對↘",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/屁↗眼↘派↗對↘.png"
+  },
+  {
+    "title": "純潔天使 聖光柴犬",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/純潔天使 聖光柴犬.png"
+  },
+  {
+    "title": "FBI Department of anti-horny",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/FBI Department of anti-horny.png"
+  },
+  {
+    "title": "優雅的紳士",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/優雅的紳士.png"
+  },
+  {
+    "title": "混亂柴犬",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/混亂柴犬.png"
+  },
+  {
+    "title": "技術性支援",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/技術性支援.png"
+  },
+  {
+    "title": "柴柴小姐",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/柴柴小姐.png"
+  },
+  {
+    "title": "色色太空狗",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色太空狗.png"
+  },
+  {
+    "title": "色色總柴",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色總柴.png"
+  },
+  {
+    "title": "狗・勾・幣",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/狗・勾・幣.png"
+  },
+  {
+    "title": "Gate of Bonks",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/Gate of Bonks.png"
+  },
+  {
+    "title": "色色監獄-The Horny Jail",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色監獄-The Horny Jail.png"
+  },
+  {
+    "title": "覺醒的柴犬騎士-Mia",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/覺醒的柴犬騎士-Mia.png"
+  },
+  {
+    "title": "抵死不從",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/抵死不從.png"
+  },
+  {
+    "title": "陽光天真帥狗勾",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/陽光天真帥狗勾.png"
+  },
+  {
+    "title": "強制Bonk",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/強制Bonk.png"
+  },
+  {
+    "title": "嘿嘿嘿-我好想色色",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/嘿嘿嘿-我好想色色.png"
+  },
+  {
+    "title": "窩就色色",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/窩就色色.png"
+  },
+  {
+    "title": "很想色色，對吧？",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/很想色色，對吧？.png"
+  },
+  {
+    "title": "熱狗",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/熱狗.png"
+  },
+  {
+    "title": "龍騎士柴可夫斯基",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/龍騎士柴可夫斯基.png"
+  },
+  {
+    "title": "拖去槍斃",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/拖去槍斃.png"
+  },
+  {
+    "title": "抗色色藥",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/抗色色藥.png"
+  },
+  {
+    "title": "大狗狗風暴",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/大狗狗風暴.png"
+  },
+  {
+    "title": "驚嚇到模糊",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/驚嚇到模糊.png"
+  },
+  {
+    "title": "反色色火箭炮",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/反色色火箭炮.png"
+  },
+  {
+    "title": "色色團結之心",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色團結之心.png"
+  },
+  {
+    "title": "噓!!!化成狗我都認得-新bonk氣流斬",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/噓!!!化成狗我都認得-新bonk氣流斬.png"
+  },
+  {
+    "title": "柴犬之星",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/柴犬之星.png"
+  },
+  {
+    "title": "色色三兄弟",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色三兄弟.png"
+  },
+  {
+    "title": "我就色色",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/我就色色.png"
+  },
+  {
+    "title": "色色忍者",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色忍者.png"
+  },
+  {
+    "title": "色色的壞壞狗勾老大",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色的壞壞狗勾老大.png"
+  },
+  {
+    "title": "色色的壞壞狗勾小弟",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色的壞壞狗勾小弟.png"
+  },
+  {
+    "title": "疾風色色柴",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/疾風色色柴.png"
+  },
+  {
+    "title": "色色柴軍團",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色柴軍團.png"
+  },
+  {
+    "title": "小色犬",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/小色犬.png"
+  },
+  {
+    "title": "三首色犬",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/三首色犬.png"
+  },
+  {
+    "title": "色色守護者",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色守護者.png"
+  },
+  {
+    "title": "色色高裝檢",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色高裝檢.png"
+  },
+  {
+    "title": "色色巡邏隊",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色巡邏隊.png"
+  },
+  {
+    "title": "這裡，可以色色!",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/這裡，可以色色!.png"
+  },
+  {
+    "title": "已經色出來了",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/已經色出來了.png"
+  },
+  {
+    "title": "防色色監獄",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/防色色監獄.png"
+  },
+  {
+    "title": "探監",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/探監.png"
+  },
+  {
+    "title": "色影濕",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色影濕.png"
+  },
+  {
+    "title": "貞潔者・聖母柴莉亞",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/貞潔者・聖母柴莉亞.png"
+  },
+  {
+    "title": "泡沫化",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/泡沫化.png"
+  },
+  {
+    "title": "再買更多卡",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/再買更多卡.png"
+  },
+  {
+    "title": "逼你色色",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/逼你色色.png"
+  },
+  {
+    "title": "絕對的色色時間",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/絕對的色色時間.png"
+  },
+  {
+    "title": "多重色色",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/多重色色.png"
+  },
+  {
+    "title": "突然色色",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/突然色色.png"
+  },
+  {
+    "title": "熱血之柴柴鍊金術師",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/熱血之柴柴鍊金術師.png"
+  },
+  {
+    "title": "純愛即是真理",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/純愛即是真理.png"
+  },
+  {
+    "title": "牙通牙",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/牙通牙.png"
+  },
+  {
+    "title": "蛤?你說什麼我沒聽到!",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/蛤?你說什麼我沒聽到!.png"
+  },
+  {
+    "title": "黑繩天譴柴犬明王",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/黑繩天譴柴犬明王.png"
+  },
+  {
+    "title": "嗷嗚凹嗚汪嗚",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/嗷嗚凹嗚汪嗚.png"
+  },
+  {
+    "title": "Anti-Horny Bonk Helmet",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/Anti-Horny Bonk Helmet.png"
+  },
+  {
+    "title": "大膽無畏的偷襲",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/大膽無畏的偷襲.png"
+  },
+  {
+    "title": "窩只想好好色色嗚嗚嗚嗚",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/窩只想好好色色嗚嗚嗚嗚.png"
+  },
+  {
+    "title": "色色大逆轉啦",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色大逆轉啦.png"
+  },
+  {
+    "title": "禁慾使徒 傳教忠犬",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/禁慾使徒 傳教忠犬.png"
+  },
+  {
+    "title": "色色‧THE‧WORLD",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色‧THE‧WORLD.png"
+  },
+  {
+    "title": "防色色安全帶",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/防色色安全帶.png"
+  },
+  {
+    "title": "色色啟動",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色啟動.png"
+  },
+  {
+    "title": "色色（咬）反制術",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色（咬）反制術.png"
+  },
+  {
+    "title": "受到威脅的柴柴",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/受到威脅的柴柴.png"
+  },
+  {
+    "title": "色色的怒吼",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色的怒吼.png"
+  },
+  {
+    "title": "收到通知的柴柴",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/收到通知的柴柴.png"
+  },
+  {
+    "title": "誰准你色色了",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/誰准你色色了.png"
+  },
+  {
+    "title": "可疑的柴柴",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/可疑的柴柴.png"
+  },
+  {
+    "title": "影分＂色＂之術",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/影分＂色＂之術.png"
+  },
+  {
+    "title": "高麗菜",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/高麗菜.png"
+  },
+  {
+    "title": "巧克力",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/巧克力.png"
+  },
+  {
+    "title": "色色的暗示",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色的暗示.png"
+  },
+  {
+    "title": "我不想再色色了",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/我不想再色色了.png"
+  },
+  {
+    "title": "柴面濕身像",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/柴面濕身像.png"
+  },
+  {
+    "title": "激烈色色犬",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/激烈色色犬.png"
+  },
+  {
+    "title": "色色雙煞",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色雙煞.png"
+  },
+  {
+    "title": "色色四兄弟",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色四兄弟.png"
+  },
+  {
+    "title": "賣身契",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/賣身契.png"
+  },
+  {
+    "title": "銀河色色二人組",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/銀河色色二人組.png"
+  },
+  {
+    "title": "月工仙子",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/月工仙子.png"
+  },
+  {
+    "title": "諸色犬吉",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/諸色犬吉.png"
+  },
+  {
+    "title": "色色水管工 阿賢&阿財",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色水管工 阿賢&阿財.png"
+  },
+  {
+    "title": "刑法第227條",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/刑法第227條.png"
+  },
+  {
+    "title": "絕對可以色色",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/絕對可以色色.png"
+  },
+  {
+    "title": "超級憤怒‧沉默的暗殺者",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/超級憤怒‧沉默的暗殺者.png"
+  },
+  {
+    "title": "阿牠這樣也可以色色喔",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/阿牠這樣也可以色色喔.png"
+  },
+  {
+    "title": "汽車後座擠4個人",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/汽車後座擠4個人.png"
+  },
+  {
+    "title": "新年柴神到!!",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/新年柴神到!!.png"
+  },
+  {
+    "title": "雙頭柴-雙倍色色宇宙",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/雙頭柴-雙倍色色宇宙.png"
+  },
+  {
+    "title": "飢渴難耐的Aili",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/飢渴難耐的Aili.png"
+  },
+  {
+    "title": "戒色第100天",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/戒色第100天.png"
+  },
+  {
+    "title": "眾基首",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/眾基首.png"
+  },
+  {
+    "title": "斯拉夫之基",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/斯拉夫之基.png"
+  },
+  {
+    "title": "一起色色",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/一起色色.png"
+  },
+  {
+    "title": "色吉是空",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色吉是空.png"
+  },
+  {
+    "title": "空吉是色",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/空吉是色.png"
+  },
+  {
+    "title": "還是不能色色",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/還是不能色色.png"
+  },
+  {
+    "title": "防色色辣椒水",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/防色色辣椒水.png"
+  },
+  {
+    "title": "不要廢話，直接色色",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/不要廢話，直接色色.gif"
+  },
+  {
+    "title": "妖艷翹臀色狗狗",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/妖艷翹臀色狗狗.png"
+  },
+  {
+    "title": "超强力・「抗色色藥」！",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/超强力・「抗色色藥」！.png"
+  },
+  {
+    "title": "媽的再給我色色試試看",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/媽的再給我色色試試看.png"
+  },
+  {
+    "title": "現在可以色色了",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/現在可以色色了.png"
+  },
+  {
+    "title": "No.86不色色勇士 柴犬之槍",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/No.86不色色勇士 柴犬之槍.png"
+  },
+  {
+    "title": "覺醒的柴犬騎士——Mia",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/覺醒的柴犬騎士——Mia.png"
+  },
+  {
+    "title": "地板很滑的",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/地板很滑的.png"
+  },
+  {
+    "title": "色色加班",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色加班.png"
+  },
+  {
+    "title": "色色六柴組",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色六柴組.png"
+  },
+  {
+    "title": "還敢色色",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/還敢色色.png"
+  },
+  {
+    "title": "色色同化",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色同化.png"
+  },
+  {
+    "title": "色色柴犬",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色柴犬.png"
+  },
+  {
+    "title": "色色柴犬——四位一體",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色柴犬——四位一體.png"
+  },
+  {
+    "title": "高傲色柴",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/高傲色柴.png"
+  },
+  {
+    "title": "色色柴犬——拔刀相助",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色柴犬——拔刀相助.png"
+  },
+  {
+    "title": "色色柴犬——狩獵模式",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色柴犬——狩獵模式.png"
+  },
+  {
+    "title": "色色柴犬——商業經營",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色柴犬——商業經營.png"
+  },
+  {
+    "title": "色色柴犬——被捕獲",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色柴犬——被捕獲.png"
+  },
+  {
+    "title": "汎濫成災！【已經色了！】",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/汎濫成災！【已經色了！】.png"
+  },
+  {
+    "title": "色色的心思",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色的心思.png"
+  },
+  {
+    "title": "色色柴犬——熊耳公主",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色柴犬——熊耳公主.png"
+  },
+  {
+    "title": "色色柴犬——兒戲忍者",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色柴犬——兒戲忍者.png"
+  },
+  {
+    "title": "色色柴犬——強力右勾拳",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色柴犬——強力右勾拳.png"
+  },
+  {
+    "title": "色色柴犬——可以色色",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色柴犬——可以色色.png"
+  },
+  {
+    "title": "色色柴犬——隱者",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色柴犬——隱者.png"
+  },
+  {
+    "title": "SUMMON HORNY SEIGE",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/SUMMON HORNY SEIGE.png"
+  },
+  {
+    "title": "國產抗色色藥",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/國產抗色色藥.png"
+  },
+  {
+    "title": "欲望解放者——神之制柴",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/欲望解放者——神之制柴.png"
+  },
+  {
+    "title": "究極の色色",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/究極の色色.png"
+  },
+  {
+    "title": "色色",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色.png"
+  },
+  {
+    "title": "娛樂性用藥",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/娛樂性用藥.png"
+  },
+  {
+    "title": "色色三頭柴（未結紥）",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色三頭柴（未結紥）.png"
+  },
+  {
+    "title": "被封印的色色大法師",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/被封印的色色大法師.png"
+  },
+  {
+    "title": "柴犬們的色色領域",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/柴犬們的色色領域.png"
+  },
+  {
+    "title": "色色的意圖",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/色色的意圖.png"
+  },
+  {
+    "title": "神犬尾毛掃",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/神犬尾毛掃.png"
+  },
+  {
+    "title": "柴犬烏拉拉",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/柴犬烏拉拉.png"
+  },
+  {
+    "title": "正在色色",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/正在色色.png"
+  },
+  {
+    "title": "我已經色射了",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/我已經色射了.png"
+  },
+  {
+    "title": "懶得色色",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/懶得色色.png"
+  },
+  {
+    "title": "惡魔狗男：你今晚的惡夢",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/惡魔狗男：你今晚的惡夢.png"
+  },
+  {
+    "title": "死亡筆記本與黑色鳳梨",
+    "type": "trap",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/死亡筆記本與黑色鳳梨.png"
+  },
+  {
+    "title": "哭啊 又吸奶",
+    "type": "monster",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/哭啊 又吸奶.png"
+  },
+  {
+    "title": "眼不見為净",
+    "type": "magic",
+    "src": "https://raw.githubusercontent.com/tpai/dogedeck/main/cards/眼不見為净.png"
+  }
 ]
