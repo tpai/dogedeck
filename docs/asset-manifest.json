@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/dogedeck/static/css/main.fcc3de92.chunk.css",
-    "main.js": "/dogedeck/static/js/main.eccace9b.chunk.js",
-    "main.js.map": "/dogedeck/static/js/main.eccace9b.chunk.js.map",
+    "main.css": "/dogedeck/static/css/main.f2a6a630.chunk.css",
+    "main.js": "/dogedeck/static/js/main.07fd1baa.chunk.js",
+    "main.js.map": "/dogedeck/static/js/main.07fd1baa.chunk.js.map",
     "runtime-main.js": "/dogedeck/static/js/runtime-main.9a77fe0a.js",
     "runtime-main.js.map": "/dogedeck/static/js/runtime-main.9a77fe0a.js.map",
     "static/js/2.5000b989.chunk.js": "/dogedeck/static/js/2.5000b989.chunk.js",
@@ -10,13 +10,14 @@
     "static/js/3.d65bf59f.chunk.js": "/dogedeck/static/js/3.d65bf59f.chunk.js",
     "static/js/3.d65bf59f.chunk.js.map": "/dogedeck/static/js/3.d65bf59f.chunk.js.map",
     "index.html": "/dogedeck/index.html",
-    "static/css/main.fcc3de92.chunk.css.map": "/dogedeck/static/css/main.fcc3de92.chunk.css.map",
-    "static/js/2.5000b989.chunk.js.LICENSE.txt": "/dogedeck/static/js/2.5000b989.chunk.js.LICENSE.txt"
+    "static/css/main.f2a6a630.chunk.css.map": "/dogedeck/static/css/main.f2a6a630.chunk.css.map",
+    "static/js/2.5000b989.chunk.js.LICENSE.txt": "/dogedeck/static/js/2.5000b989.chunk.js.LICENSE.txt",
+    "static/media/github.4ccd8fa9.svg": "/dogedeck/static/media/github.4ccd8fa9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.9a77fe0a.js",
     "static/js/2.5000b989.chunk.js",
-    "static/css/main.fcc3de92.chunk.css",
-    "static/js/main.eccace9b.chunk.js"
+    "static/css/main.f2a6a630.chunk.css",
+    "static/js/main.07fd1baa.chunk.js"
   ]
 }
