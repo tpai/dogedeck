@@ -24,3 +24,4 @@ DM me.
 - https://disp.cc/b/163-e71d
 - https://www.dcard.tw/f/meme/p/236882544
 - https://www.dcard.tw/f/funny/p/237006193
+- https://icon-library.com/icon/doge-icon-21.html
