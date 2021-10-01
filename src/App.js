@@ -42,6 +42,7 @@ function App() {
       </header>
       <div className="flex flex-wrap mx-auto overflow-y-scroll cards-container">
         {cards
+          .reverse()
           .filter(
             (card) =>
               card.title.includes(search) && (card.type === type || type === "")
