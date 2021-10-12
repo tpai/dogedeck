@@ -12,12 +12,26 @@ function App() {
   const handleSearchChange = useCallback((e) => {
     setSearch(e.target.value);
   }, []);
+  const displayCards =cards
+  .reverse()
+  .filter(
+    (card) =>
+      card.title.includes(search) && (card.type === type || type === "")
+  )
+  .map((card) => (
+    <img
+      key={encodeURIComponent(card.title)}
+      className="object-cover object-center w-1/2 rounded-lg sm:w-1/3 lg:w-1/6"
+      alt={card.title}
+      src={card.src}
+    />
+  ))
   return (
     <section className="text-gray-400 bg-gray-900 body-font">
       <header className="flex p-3">
         <select
           onChange={handleTypeChange}
-          className="w-2/6 py-2 pl-3 text-white bg-transparent border border-gray-700 rounded appearance-none sm:w-24"
+          className="w-2/6 py-2 pl-3 text-white bg-transparent border border-gray-700 rounded appearance-none sm:w-24 cursor-pointer"
         >
           <option value="">全部</option>
           <option value="trap">陷阱卡</option>
@@ -40,22 +54,13 @@ function App() {
           />
         </a>
       </header>
-      <div className="flex flex-wrap mx-auto overflow-y-scroll cards-container">
-        {cards
-          .reverse()
-          .filter(
-            (card) =>
-              card.title.includes(search) && (card.type === type || type === "")
-          )
-          .map((card) => (
-            <img
-              key={encodeURIComponent(card.title)}
-              className="object-cover object-center w-1/2 rounded-lg sm:w-1/3 lg:w-1/6"
-              alt={card.title}
-              src={card.src}
-            />
-          ))}
-      </div>
+      {displayCards.length > 0 ? (
+        <div className="flex flex-wrap mx-auto overflow-y-scroll cards-container">
+          {displayCards}
+        </div>
+      ) : (
+        <div className="w-full text-center text-xl">找不到你想要的色色柴犬🥲</div>
+      )}
     </section>
   );
 }
