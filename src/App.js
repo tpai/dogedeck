@@ -19,10 +19,10 @@ function App() {
           onChange={handleTypeChange}
           className="w-2/6 py-2 pl-3 text-white bg-transparent border border-gray-700 rounded appearance-none sm:w-24"
         >
-          <option value="">全部</option>
-          <option value="trap">陷阱卡</option>
-          <option value="magic">魔法卡</option>
-          <option value="monster">怪獸卡</option>
+          <option value="" className="bg-gray-900">全部</option>
+          <option value="trap" className="bg-gray-900">陷阱卡</option>
+          <option value="magic" className="bg-gray-900">魔法卡</option>
+          <option value="monster" className="bg-gray-900">怪獸卡</option>
         </select>
         <input
           type="text"
