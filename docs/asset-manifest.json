@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dogedeck/static/css/main.3ece374e.chunk.css",
-    "main.js": "/dogedeck/static/js/main.d3f99145.chunk.js",
-    "main.js.map": "/dogedeck/static/js/main.d3f99145.chunk.js.map",
+    "main.js": "/dogedeck/static/js/main.4b73e639.chunk.js",
+    "main.js.map": "/dogedeck/static/js/main.4b73e639.chunk.js.map",
     "runtime-main.js": "/dogedeck/static/js/runtime-main.9b26913f.js",
     "runtime-main.js.map": "/dogedeck/static/js/runtime-main.9b26913f.js.map",
     "static/js/2.2d21f713.chunk.js": "/dogedeck/static/js/2.2d21f713.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.9b26913f.js",
     "static/js/2.2d21f713.chunk.js",
     "static/css/main.3ece374e.chunk.css",
-    "static/js/main.d3f99145.chunk.js"
+    "static/js/main.4b73e639.chunk.js"
   ]
 }
