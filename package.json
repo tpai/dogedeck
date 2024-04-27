@@ -2,6 +2,9 @@
   "name": "dogedeck",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">=18.20.2"
+  },
   "dependencies": {
     "@craco/craco": "^6.3.0",
     "@testing-library/jest-dom": "^5.11.4",
@@ -16,8 +19,8 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "start": "craco start",
-    "build": "PUBLIC_URL=/dogedeck BUILD_PATH=./docs craco build",
+    "start": "NODE_OPTIONS=--openssl-legacy-provider craco start",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider PUBLIC_URL=/dogedeck BUILD_PATH=./docs craco build",
     "test": "craco test",
     "backup": "node src/utils/backup.js",
     "eject": "react-scripts eject"
